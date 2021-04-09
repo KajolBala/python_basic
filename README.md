@@ -1,5 +1,4 @@
 # python_basic
 
-
-https://colab.research.google.com/drive/1hlI54FikaDevMji2aoY6FCsQfmgGjkHB
+https://colab.research.google.com/github/KajolBala/python_basic/blob/main/JavaTpoint.ipynb
 
